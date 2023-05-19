@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+p, h1 {
+    color: white;
+}
+
+.headline {
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.main{
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+    text-align: justify;
+}
